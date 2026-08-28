@@ -256,7 +256,7 @@ Custom CNN — **95.76%**
 
 ---
 
-🏆 Highlights
+## 🏆 Highlights
 
 - **First Author** of AI-THLETE-Health, an offline-first Edge AI research project for automated youth fitness assessment.
 - **Co-authored an arXiv research paper** on deep learning-based crop disease detection.
