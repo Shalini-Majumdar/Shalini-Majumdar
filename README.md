@@ -41,3 +41,149 @@ RAG pipelines, LLM workflows, tool-using agents and human-in-the-loop AI systems
 Turning models into complete products using FastAPI, React, REST APIs, databases, Docker and deployment workflows.
 
 > I enjoy building systems where AI genuinely changes how the product understands, decides or adapts — rather than adding AI as an extra feature.
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Barclays
+**Technology Developer Intern** · 2026
+
+Built an internal operations platform replacing an Excel-based mapping workflow, plus a CI/CD compliance automation system that detects image mismatches and triggers builds automatically.
+
+`React` `Node.js` `Java` `OpenShift` `GitLab CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+### Softcell Technologies
+**AI Intern** · 2025
+
+Built AI tools for **resume screening and legal document analysis**, and benchmarked quantized **Mistral-7B with MLX**, achieving **47% faster execution** compared with the alternative setup.
+
+`Gemini` `MERN` `PyTorch` `MLX` `Mistral` `TinyLlama`
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### TutorTrace
+
+**Adaptive tutoring that learns how a student learns**
+
+Tracks mastery beyond right/wrong answers using response time, misconceptions, prerequisite gaps and memory decay.
+
+**0.7013 Test AUC** across 8 mathematical skills
+
+`BKT` `Python` `FastAPI` `React` `pyBKT`
+
+[**GitHub ↗**](YOUR_TUTORTRACE_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### CrisisPilot
+
+**Human-guided AI agent for incident response**
+
+Reads telemetry, diagnoses failures and generates recovery plans while keeping remediation behind explicit **approve / reject** controls.
+
+`Agentic AI` `Gemini` `Dynatrace` `FastAPI` `React`
+
+[**GitHub ↗**](YOUR_CRISISPILOT_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Smart Shopping
+
+**Collaborative shopping powered by an AI assistant**
+
+Supports **multiple carts per user**, shared carts and an AI shopping agent that recommends products, understands cart context and acts on user decisions.
+
+`LangChain` `LangGraph` `FastAPI` `React` `PostgreSQL`
+
+[**GitHub ↗**](YOUR_SMART_SHOPPING_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Customer Watchdog
+
+**AI-powered customer sentiment monitoring**
+
+Detects customer emotions from feedback, surfaces emerging issues and uses Gemini to analyze the likely causes behind negative sentiment.
+
+`NLP` `Gemini` `Hugging Face` `FastAPI` `React` `Supabase`
+
+[**GitHub ↗**](YOUR_CUSTOMER_WATCHDOG_LINK)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔬 Research
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Crop Disease Detection
+
+**Transfer learning for resource-constrained agriculture**
+
+Compared multiple CNN architectures  
+**EfficientNetB0 — 97.10%**  
+Custom CNN — **95.76%**
+
+`CNN` `EfficientNet` `TensorFlow` `Transfer Learning`
+
+[**arXiv ↗**](https://arxiv.org/abs/2506.20323)
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI-THLETE-Health (Under Review)
+
+**Offline-first Edge AI for youth fitness assessment**
+
+6 assessments entirely on-device  
+**3–6 ms** inference  
+**92.5%** vertical-jump accuracy  
+**0.44 cm** height MAE  
+
+`Edge AI` `Computer Vision` `TensorFlow Lite` `MediaPipe`
+
+</td>
+
+</tr>
+</table>
+
+---
+
