@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Shalini Majumdar 👋</h1>
 
 <p align="center">
-  <i>Building intelligent systems across Applied AI, Generative AI & ML Engineering</i>
+  <i>Building intelligent systems across Applied AI, Generative AI & ML Engineering. Let's connect!</i>
 </p>
 
 <p align="center">
@@ -187,3 +187,80 @@ Custom CNN — **95.76%**
 
 ---
 
+
+## 🛠 Technical Toolkit
+
+<p align="center">
+  <b>Machine Learning & AI</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks%20(CNNs)-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--tuning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-008080?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Frontend</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>Backend/DBMS</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Programming Languages</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Frameworks</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+<br>
+
+---
+
+🏆 Highlights
+
+- **First Author** of AI-THLETE-Health, an offline-first Edge AI research project for automated youth fitness assessment.
+- **Co-authored an arXiv research paper** on deep learning-based crop disease detection.
+- Earned a **Silver Grade in NPTEL Data Structures & Algorithms in Java**.
+- Earned HackerRank's **Gold Problem Solving Badge** and Problem Solving certifications at **Basic & Intermediate** levels.
+- Solved **400+ programming problems** across LeetCode, HackerRank and CodeChef.
+- Completed the **Google × Kaggle Generative AI Intensive**, building a GenAI resume–job matching capstone.
