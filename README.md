@@ -91,7 +91,7 @@ Tracks mastery beyond right/wrong answers using response time, misconceptions, p
 
 `BKT` `Python` `FastAPI` `React` `pyBKT`
 
-[**GitHub ↗**](YOUR_TUTORTRACE_LINK)
+[**GitHub ↗**](https://github.com/Shalini-Majumdar/TutorTrace)
 
 </td>
 
@@ -105,7 +105,7 @@ Reads telemetry, diagnoses failures and generates recovery plans while keeping r
 
 `Agentic AI` `Gemini` `Dynatrace` `FastAPI` `React`
 
-[**GitHub ↗**](YOUR_CRISISPILOT_LINK)
+[**GitHub ↗**](https://github.com/Shalini-Majumdar/crisispilot)
 
 </td>
 
@@ -123,7 +123,7 @@ Supports **multiple carts per user**, shared carts and an AI shopping agent that
 
 `LangChain` `LangGraph` `FastAPI` `React` `PostgreSQL`
 
-[**GitHub ↗**](YOUR_SMART_SHOPPING_LINK)
+[**GitHub ↗**](https://github.com/Shalini-Majumdar/Walmart_Sparkathon)
 
 </td>
 
@@ -137,7 +137,7 @@ Detects customer emotions from feedback, surfaces emerging issues and uses Gemin
 
 `NLP` `Gemini` `Hugging Face` `FastAPI` `React` `Supabase`
 
-[**GitHub ↗**](YOUR_CUSTOMER_WATCHDOG_LINK)
+[**GitHub ↗**](https://github.com/Shalini-Majumdar/Customer_WatchDog)
 
 </td>
 
